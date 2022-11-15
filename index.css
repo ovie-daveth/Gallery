@@ -118,6 +118,9 @@ nav ul li a:hover{
     #search-box{
         width: 90%;
     }
+    .nav{
+        display: none;
+    }
 }
 
 @media (max-width:450px){
